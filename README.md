@@ -9,7 +9,7 @@ A aplicação é um rastreador de hábitos, com a função de criar uma lista de
 | Integrante | email |
 |-------|-------|
 |Jefferson Santos Alves | salves.jefferson@gmail.com |
-|José Otáveio Timóteo Souza | j.otavio.ts@gmail.com |
+|José Otáveio Timóteo de Souza | j.otavio.ts@gmail.com |
 
 ## 🧨 Motivação
 
